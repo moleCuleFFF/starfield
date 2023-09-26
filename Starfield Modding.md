@@ -1,9 +1,34 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Starfield Modding</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#starfield-modding">Starfield Modding</a>
+<ul>
+<li><a href="#latest-torrent-and-updaters">Latest torrent and Updaters</a></li>
+<li><a href="#mod-organiser-2---latest-starfield-compatible-beta">Mod Organiser 2 - Latest Starfield compatible beta</a></li>
+<li><a href="#starfield-ini-tweaks">Starfield INI Tweaks</a></li>
+<li><a href="#my-personal-mod-list">My Personal mod list</a></li>
+</ul>
+</li>
+<li><a href="#replace-fsr2-with-either-dlss-or-xess-because-fsr-2-sucks-">Replace FSR2 with either DLSS or XeSS because FSR 2 SUCKS !</a></li>
+</ul>
 
-<h1 id="starfield-modding">Starfield Modding</h1>
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="starfield-modding">Starfield Modding</h1>
 <p>This is a guide with links to the latest available MOD tools for Starfield, including MO2’s latest beta.</p>
 <h2 id="latest-torrent-and-updaters">Latest torrent and Updaters</h2>
 <p>Ensure to update in the correct order and to point the installer at your <strong>current</strong> starfield directory, I will try to keep this up to date with the latest patches.</p>
@@ -171,3 +196,8 @@ fTPWorldFOV=95
 <p>Even if your not rocking an nVidia RTX card you can still swap out FSR2 to Intel’s XeSS. FSR2 emits some pretty terrrible ghosting artifacts but starfield is kinda unplayable without an upscaler so I highly reccommend doing this !</p>
 <p><a href="https://www.nexusmods.com/starfield/mods/111">https://www.nexusmods.com/starfield/mods/111</a></p>
 
+    </div>
+  </div>
+</body>
+
+</html>
