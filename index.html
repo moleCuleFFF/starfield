@@ -24,7 +24,7 @@
     <div class="stackedit__toc">
       
 <ul>
-<li><a href="#starfield-modding-guide">Starfield Modding Guide</a>
+<li><a href="#starfield-modding-tools">Starfield Modding Tools</a>
 <ul>
 <li><a href="#latest-torrent-and-updaters">Latest torrent and Updaters</a></li>
 <li><a href="#mod-organiser-2---starfield-compatible-beta">Mod Organiser 2 - Starfield compatible beta</a></li>
@@ -39,7 +39,7 @@
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
-      <h1 id="starfield-modding-guide">Starfield Modding Guide</h1>
+      <h1 id="starfield-modding-tools">Starfield Modding Tools</h1>
 <p>This is a guide with links to the latest available MOD tools for Starfield, including MO2’s latest beta.</p>
 <h2 id="latest-torrent-and-updaters">Latest torrent and Updaters</h2>
 <p><a href="https://drive.google.com/file/d/1m7FfkLei1J-UduiwPW1uypvuyuDBEXWj/view?usp=drive_link">Download starfield</a></p>
