@@ -47,7 +47,6 @@
 <p>This is the <strong>elamigos</strong> update same guy as BG3 update patcher.</p>
 <p><a href="https://drive.google.com/file/d/1ykF4QDGyyyhetvyCenv4D1eKKOw5sDRD/view?usp=drive_link">Starfield Update 1.7.29</a><br>
 <a href="https://drive.google.com/file/d/1ZibUCJ-Mv7crVOnerIMefMoKdQLPPZGJ/view?usp=drive_link">Starfield update 1.7.29 - 1.7.33.exe</a></p>
-<p>Verified working - <strong>Please do not share ! This is my personal gDrive</strong></p>
 <h2 id="mod-organiser-2---latest-starfield-compatible-beta">Mod Organiser 2 - Latest Starfield compatible beta</h2>
 <p><a href="https://drive.google.com/file/d/1xCrKXWZ7j1B5wayfwjAAGmi1G9SKPCUS/view?usp=drive_link">https://drive.google.com/file/d/1xCrKXWZ7j1B5wayfwjAAGmi1G9SKPCUS/view?usp=drive_link</a> &lt;- MO2 Beta 10</p>
 <p><strong>Beta 10 patch:</strong><br>
