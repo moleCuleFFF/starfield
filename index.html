@@ -27,7 +27,7 @@
 <li><a href="#starfield-modding-guide">Starfield Modding Guide</a>
 <ul>
 <li><a href="#latest-torrent-and-updaters">Latest torrent and Updaters</a></li>
-<li><a href="#mod-organiser-2---latest-starfield-compatible-beta">Mod Organiser 2 - Latest Starfield compatible beta</a></li>
+<li><a href="#mod-organiser-2---starfield-compatible-beta">Mod Organiser 2 - Starfield compatible beta</a></li>
 <li><a href="#starfield-ini-tweaks">Starfield INI Tweaks</a></li>
 <li><a href="#my-personal-mod-list">My Personal mod list</a></li>
 <li><a href="#replace-fsr2-with-either-dlss-or-xess-because-fsr-2-sucks-">Replace FSR2 with either DLSS or XeSS because FSR 2 SUCKS !</a></li>
@@ -47,7 +47,7 @@
 <p>This is the <strong>elamigos</strong> update same guy as BG3 update patcher.</p>
 <p><a href="https://drive.google.com/file/d/1ykF4QDGyyyhetvyCenv4D1eKKOw5sDRD/view?usp=drive_link">Starfield Update 1.7.29</a><br>
 <a href="https://drive.google.com/file/d/1ZibUCJ-Mv7crVOnerIMefMoKdQLPPZGJ/view?usp=drive_link">Starfield update 1.7.29 - 1.7.33.exe</a></p>
-<h2 id="mod-organiser-2---latest-starfield-compatible-beta">Mod Organiser 2 - Latest Starfield compatible beta</h2>
+<h2 id="mod-organiser-2---starfield-compatible-beta">Mod Organiser 2 - Starfield compatible beta</h2>
 <p><a href="https://drive.google.com/file/d/1xCrKXWZ7j1B5wayfwjAAGmi1G9SKPCUS/view?usp=drive_link">https://drive.google.com/file/d/1xCrKXWZ7j1B5wayfwjAAGmi1G9SKPCUS/view?usp=drive_link</a> &lt;- MO2 Beta 10</p>
 <p><strong>Beta 10 patch:</strong><br>
 The INI editor change seems to cause issues with actually saving the INI. Replace the dll in the root MO2 directory with this to fix it.<br>
