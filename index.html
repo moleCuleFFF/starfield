@@ -42,8 +42,7 @@
       <h1 id="starfield-modding-guide">Starfield Modding Guide</h1>
 <p>This is a guide with links to the latest available MOD tools for Starfield, including MO2’s latest beta.</p>
 <h2 id="latest-torrent-and-updaters">Latest torrent and Updaters</h2>
-<p>Starfield torrent file<br>
-<a href="https://drive.google.com/file/d/1m7FfkLei1J-UduiwPW1uypvuyuDBEXWj/view?usp=drive_link">https://drive.google.com/file/d/1m7FfkLei1J-UduiwPW1uypvuyuDBEXWj/view?usp=drive_link</a></p>
+<p><a href="https://drive.google.com/file/d/1m7FfkLei1J-UduiwPW1uypvuyuDBEXWj/view?usp=drive_link">Download starfield</a></p>
 <p>Ensure to update in the correct order and to point the installer at your <strong>current</strong> starfield directory, I will try to keep this up to date with the latest patches.</p>
 <p>This is the <strong>elamigos</strong> update same guy as BG3 update patcher.</p>
 <p><a href="https://drive.google.com/file/d/1ykF4QDGyyyhetvyCenv4D1eKKOw5sDRD/view?usp=drive_link">Starfield Update 1.7.29</a><br>
