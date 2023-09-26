@@ -45,25 +45,32 @@ Starfield INI's ca be edited directly in MO2, **Tools->Tool Plugins -> INI Edito
 
 
 ## My Personal mod list
-|#Mod_Priority|#Mod_Name                                                                |#Nexus_ID|#Mod_Nexus_URL                               |#Mod_Version|
-|-------------|-------------------------------------------------------------------------|---------|---------------------------------------------|------------|
-|0000         |Undelayed Menus                                                          |404      |https://www.nexusmods.com/starfield/mods/404 |1.0.5.0     |
-|0001         |StarUI Inventory                                                         |773      |https://www.nexusmods.com/starfield/mods/773 |2.1.0.0     |
-|0002         |Compact Mission UI                                                       |682      |https://www.nexusmods.com/starfield/mods/682 |1.4.0.0     |
-|0003         |Compact Ship Builder UI                                                  |1170     |https://www.nexusmods.com/starfield/mods/1170|1.1.0.0     |
-|0004         |BetterHUD                                                                |214      |https://www.nexusmods.com/starfield/mods/214 |0.3.0.0     |
-|0005         |Cleanfield - A No-Intro Videos And Clean Menu Fix                        |88       |https://www.nexusmods.com/starfield/mods/88  |1.7.2.0     |
-|0006         |Smooth Ship Reticle (120fps Smooth UI)                                   |270      |https://www.nexusmods.com/starfield/mods/270 |1.3.0.0     |
-|0007         |Enhanced Dialogue Interface                                              |871      |https://www.nexusmods.com/starfield/mods/871 |1.2.0.0     |
-|0008         |Enhanced Subtitles                                                       |1914     |https://www.nexusmods.com/starfield/mods/1914|1.1.0.0     |
-|0009         |Dark Mode for Terminals                                                  |861      |https://www.nexusmods.com/starfield/mods/861 |1.4.0.0     |
-|0010         |EXE - Effect Textures Enhanced                                           |340      |https://www.nexusmods.com/starfield/mods/340 |0.6.0.0     |
-|0011         |DualSense - PS5 Icons                                                    |215      |https://www.nexusmods.com/starfield/mods/215 |1.0.0.0     |
-|0012         |Compact Crew Menu UI                                                     |3014     |https://www.nexusmods.com/starfield/mods/3014|1.2.0.0     |
-|0013         |Compact Build Menu UI                                                    |3063     |https://www.nexusmods.com/starfield/mods/3063|1.1.0.0     |
-|0014         |NaturaLUTs - Color Graded Filter Removal and Black Level Restoration LUTs|1119     |https://www.nexusmods.com/starfield/mods/1119|1.1.0.0     |
-|0015         |The Eyes of Beauty - Starfield Edition                                   |493      |https://www.nexusmods.com/starfield/mods/493 |1.0.0.0     |
-|0017         |Richer Merchants                                                         |1143     |https://www.nexusmods.com/starfield/mods/1143|1.2.0.0     |
+|#Mod_Priority|#Mod_Status|#Mod_Name                                                                |#Primary_Category|#Mod_Nexus_URL                               |#Mod_Version|
+|-------------|-----------|-------------------------------------------------------------------------|-----------------|---------------------------------------------|------------|
+|0000         |+          |Undelayed Menus                                                          |User Interface   |https://www.nexusmods.com/starfield/mods/404 |1.0.5.0     |
+|0001         |+          |StarUI Inventory                                                         |User Interface   |https://www.nexusmods.com/starfield/mods/773 |2.2.0.0     |
+|0002         |+          |StarUI HUD                                                               |User Interface   |https://www.nexusmods.com/starfield/mods/3444|1.0.0.0     |
+|0003         |+          |Compact Mission UI                                                       |User Interface   |https://www.nexusmods.com/starfield/mods/682 |1.5.0.0     |
+|0004         |+          |Compact Ship Builder UI                                                  |User Interface   |https://www.nexusmods.com/starfield/mods/1170|1.4.0.0     |
+|0005         |-          |BetterHUD                                                                |Audio            |https://www.nexusmods.com/starfield/mods/214 |0.3.0.0     |
+|0006         |+          |Cleanfield - A No-Intro Videos And Clean Menu Fix                        |User Interface   |https://www.nexusmods.com/starfield/mods/88  |1.7.2.0     |
+|0007         |+          |Smooth Ship Reticle (120fps Smooth UI)                                   |User Interface   |https://www.nexusmods.com/starfield/mods/270 |1.3.0.0     |
+|0008         |+          |Enhanced Dialogue Interface                                              |User Interface   |https://www.nexusmods.com/starfield/mods/871 |2.0.1.0     |
+|0009         |+          |Enhanced Subtitles                                                       |User Interface   |https://www.nexusmods.com/starfield/mods/1914|1.2.0.0     |
+|0010         |+          |Dark Mode for Terminals                                                  |User Interface   |https://www.nexusmods.com/starfield/mods/861 |1.5.0.0     |
+|0011         |+          |Starfield HD Reworked Project                                            |Visuals          |https://www.nexusmods.com/starfield/mods/3486|1.0.0.0-fix |
+|0012         |+          |EXE - Effect Textures Enhanced                                           |                 |https://www.nexusmods.com/starfield/mods/340 |0.6.0.0     |
+|0013         |+          |DualSense - PS5 Icons                                                    |User Interface   |https://www.nexusmods.com/starfield/mods/215 |1.0.0.0     |
+|0014         |+          |Compact Crew Menu UI                                                     |User Interface   |https://www.nexusmods.com/starfield/mods/3014|1.5.0.0     |
+|0015         |+          |Compact Build Menu UI                                                    |Audio            |https://www.nexusmods.com/starfield/mods/3063|1.1.0.0     |
+|0016         |+          |NaturaLUTs - Color Graded Filter Removal and Black Level Restoration LUTs|                 |https://www.nexusmods.com/starfield/mods/1119|1.1.0.0     |
+|0017         |+          |The Eyes of Beauty - Starfield Edition                                   |                 |https://www.nexusmods.com/starfield/mods/493 |1.0.0.0     |
+|0018         |-          |Baka Achievement Enabler (SFSE)                                          |                 |https://www.nexusmods.com/starfield/mods/658 |1.5.0.0     |
+|0019         |+          |Richer Merchants                                                         |Ships            |https://www.nexusmods.com/starfield/mods/1143|1.2.0.0     |
+|0020         |+          |Stellar Glass                                                            |                 |https://www.nexusmods.com/starfield/mods/2894|1.0.0.0     |
+|0021         |+          |Stellar Water                                                            |                 |https://www.nexusmods.com/starfield/mods/1615|1.0.0.0     |
+|0022         |+          |Skurkbro's Retexture Project - Landscape                                 |Visuals          |https://www.nexusmods.com/starfield/mods/2362|1.4.0.0     |
+|0023         |+          |Skurkbro's Retexture Project - Architecture                              |Visuals          |https://www.nexusmods.com/starfield/mods/2362|1.3.0.0     |
 
 # Replace FSR2 with either DLSS or XeSS because FSR 2 SUCKS !
 
