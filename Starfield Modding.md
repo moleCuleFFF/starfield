@@ -6,6 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Starfield Modding</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
+  
+  <meta property="og:title" content="Starfield Modding Tools">
+  <meta property="og:site_name" content="Starfield Modding Tools">
+  <meta property="og:url" content="https://moleculefff.github.io/starfield">
+  <meta property="og:description" content="Useful stuff">
+  <meta property="og:image" content="https://www.cnet.com/a/img/resize/9e0352acca4ea39944790e9ddbee15c4f1e83373/hub/2021/12/20/abea3b75-13fc-4980-9d10-99f4c5d975d7/capsule-616x353.jpg?auto=webp&fit=crop&height=675&width=1200">
+  	
   <style>
     @media (prefers-color-scheme: dark) {
       body {
