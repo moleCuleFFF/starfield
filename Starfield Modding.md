@@ -6,10 +6,40 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Starfield Modding</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
+  <style>
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: #1B1B1B;
+        color: #E7E8EB;
+      }
+      a {
+        color: #3387CC;
+      }
+    }
+  </style>
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html"><h1 id="starfield-modding">Starfield Modding</h1>
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#starfield-modding-guide">Starfield Modding Guide</a>
+<ul>
+<li><a href="#latest-torrent-and-updaters">Latest torrent and Updaters</a></li>
+<li><a href="#mod-organiser-2---latest-starfield-compatible-beta">Mod Organiser 2 - Latest Starfield compatible beta</a></li>
+<li><a href="#starfield-ini-tweaks">Starfield INI Tweaks</a></li>
+<li><a href="#my-personal-mod-list">My Personal mod list</a></li>
+<li><a href="#replace-fsr2-with-either-dlss-or-xess-because-fsr-2-sucks-">Replace FSR2 with either DLSS or XeSS because FSR 2 SUCKS !</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="starfield-modding-guide">Starfield Modding Guide</h1>
 <p>This is a guide with links to the latest available MOD tools for Starfield, including MO2’s latest beta.</p>
 <h2 id="latest-torrent-and-updaters">Latest torrent and Updaters</h2>
 <p>Ensure to update in the correct order and to point the installer at your <strong>current</strong> starfield directory, I will try to keep this up to date with the latest patches.</p>
@@ -47,7 +77,7 @@ fTPWorldFOV=95
 <tr>
 <th>#Mod_Priority</th>
 <th>#Mod_Name</th>
-<th>#Nexus_ID</th>
+<th>#Primary_Category</th>
 <th>#Mod_Nexus_URL</th>
 <th>#Mod_Version</th>
 </tr>
@@ -56,127 +86,178 @@ fTPWorldFOV=95
 <tr>
 <td>0000</td>
 <td>Undelayed Menus</td>
-<td>404</td>
+<td>User Interface</td>
 <td><a href="https://www.nexusmods.com/starfield/mods/404">https://www.nexusmods.com/starfield/mods/404</a></td>
 <td>1.0.5.0</td>
 </tr>
 <tr>
 <td>0001</td>
 <td>StarUI Inventory</td>
-<td>773</td>
+<td>User Interface</td>
 <td><a href="https://www.nexusmods.com/starfield/mods/773">https://www.nexusmods.com/starfield/mods/773</a></td>
-<td>2.1.0.0</td>
+<td>2.2.0.0</td>
 </tr>
 <tr>
 <td>0002</td>
-<td>Compact Mission UI</td>
-<td>682</td>
-<td><a href="https://www.nexusmods.com/starfield/mods/682">https://www.nexusmods.com/starfield/mods/682</a></td>
-<td>1.4.0.0</td>
+<td>StarUI HUD</td>
+<td>User Interface</td>
+<td><a href="https://www.nexusmods.com/starfield/mods/3444">https://www.nexusmods.com/starfield/mods/3444</a></td>
+<td>1.0.0.0</td>
 </tr>
 <tr>
 <td>0003</td>
-<td>Compact Ship Builder UI</td>
-<td>1170</td>
-<td><a href="https://www.nexusmods.com/starfield/mods/1170">https://www.nexusmods.com/starfield/mods/1170</a></td>
-<td>1.1.0.0</td>
+<td>Compact Mission UI</td>
+<td>User Interface</td>
+<td><a href="https://www.nexusmods.com/starfield/mods/682">https://www.nexusmods.com/starfield/mods/682</a></td>
+<td>1.5.0.0</td>
 </tr>
 <tr>
 <td>0004</td>
+<td>Compact Ship Builder UI</td>
+<td>User Interface</td>
+<td><a href="https://www.nexusmods.com/starfield/mods/1170">https://www.nexusmods.com/starfield/mods/1170</a></td>
+<td>1.4.0.0</td>
+</tr>
+<tr>
+<td>0005</td>
 <td>BetterHUD</td>
-<td>214</td>
+<td>Audio</td>
 <td><a href="https://www.nexusmods.com/starfield/mods/214">https://www.nexusmods.com/starfield/mods/214</a></td>
 <td>0.3.0.0</td>
 </tr>
 <tr>
-<td>0005</td>
+<td>0006</td>
 <td>Cleanfield - A No-Intro Videos And Clean Menu Fix</td>
-<td>88</td>
+<td>User Interface</td>
 <td><a href="https://www.nexusmods.com/starfield/mods/88">https://www.nexusmods.com/starfield/mods/88</a></td>
 <td>1.7.2.0</td>
 </tr>
 <tr>
-<td>0006</td>
+<td>0007</td>
 <td>Smooth Ship Reticle (120fps Smooth UI)</td>
-<td>270</td>
+<td>User Interface</td>
 <td><a href="https://www.nexusmods.com/starfield/mods/270">https://www.nexusmods.com/starfield/mods/270</a></td>
 <td>1.3.0.0</td>
 </tr>
 <tr>
-<td>0007</td>
-<td>Enhanced Dialogue Interface</td>
-<td>871</td>
-<td><a href="https://www.nexusmods.com/starfield/mods/871">https://www.nexusmods.com/starfield/mods/871</a></td>
-<td>1.2.0.0</td>
-</tr>
-<tr>
 <td>0008</td>
-<td>Enhanced Subtitles</td>
-<td>1914</td>
-<td><a href="https://www.nexusmods.com/starfield/mods/1914">https://www.nexusmods.com/starfield/mods/1914</a></td>
-<td>1.1.0.0</td>
+<td>Enhanced Dialogue Interface</td>
+<td>User Interface</td>
+<td><a href="https://www.nexusmods.com/starfield/mods/871">https://www.nexusmods.com/starfield/mods/871</a></td>
+<td>2.0.1.0</td>
 </tr>
 <tr>
 <td>0009</td>
-<td>Dark Mode for Terminals</td>
-<td>861</td>
-<td><a href="https://www.nexusmods.com/starfield/mods/861">https://www.nexusmods.com/starfield/mods/861</a></td>
-<td>1.4.0.0</td>
+<td>Enhanced Subtitles</td>
+<td>User Interface</td>
+<td><a href="https://www.nexusmods.com/starfield/mods/1914">https://www.nexusmods.com/starfield/mods/1914</a></td>
+<td>1.2.0.0</td>
 </tr>
 <tr>
 <td>0010</td>
+<td>Dark Mode for Terminals</td>
+<td>User Interface</td>
+<td><a href="https://www.nexusmods.com/starfield/mods/861">https://www.nexusmods.com/starfield/mods/861</a></td>
+<td>1.5.0.0</td>
+</tr>
+<tr>
+<td>0011</td>
+<td>Starfield HD Reworked Project</td>
+<td>Visuals</td>
+<td><a href="https://www.nexusmods.com/starfield/mods/3486">https://www.nexusmods.com/starfield/mods/3486</a></td>
+<td>1.0.0.0-fix</td>
+</tr>
+<tr>
+<td>0012</td>
 <td>EXE - Effect Textures Enhanced</td>
-<td>340</td>
+<td></td>
 <td><a href="https://www.nexusmods.com/starfield/mods/340">https://www.nexusmods.com/starfield/mods/340</a></td>
 <td>0.6.0.0</td>
 </tr>
 <tr>
-<td>0011</td>
+<td>0013</td>
 <td>DualSense - PS5 Icons</td>
-<td>215</td>
+<td>User Interface</td>
 <td><a href="https://www.nexusmods.com/starfield/mods/215">https://www.nexusmods.com/starfield/mods/215</a></td>
 <td>1.0.0.0</td>
 </tr>
 <tr>
-<td>0012</td>
+<td>0014</td>
 <td>Compact Crew Menu UI</td>
-<td>3014</td>
+<td>User Interface</td>
 <td><a href="https://www.nexusmods.com/starfield/mods/3014">https://www.nexusmods.com/starfield/mods/3014</a></td>
-<td>1.2.0.0</td>
+<td>1.5.0.0</td>
 </tr>
 <tr>
-<td>0013</td>
+<td>0015</td>
 <td>Compact Build Menu UI</td>
-<td>3063</td>
+<td>Audio</td>
 <td><a href="https://www.nexusmods.com/starfield/mods/3063">https://www.nexusmods.com/starfield/mods/3063</a></td>
 <td>1.1.0.0</td>
 </tr>
 <tr>
-<td>0014</td>
+<td>0016</td>
 <td>NaturaLUTs - Color Graded Filter Removal and Black Level Restoration LUTs</td>
-<td>1119</td>
+<td></td>
 <td><a href="https://www.nexusmods.com/starfield/mods/1119">https://www.nexusmods.com/starfield/mods/1119</a></td>
 <td>1.1.0.0</td>
 </tr>
 <tr>
-<td>0015</td>
+<td>0017</td>
 <td>The Eyes of Beauty - Starfield Edition</td>
-<td>493</td>
+<td></td>
 <td><a href="https://www.nexusmods.com/starfield/mods/493">https://www.nexusmods.com/starfield/mods/493</a></td>
 <td>1.0.0.0</td>
 </tr>
 <tr>
-<td>0017</td>
+<td>0018</td>
+<td>Baka Achievement Enabler (SFSE)</td>
+<td></td>
+<td><a href="https://www.nexusmods.com/starfield/mods/658">https://www.nexusmods.com/starfield/mods/658</a></td>
+<td>1.5.0.0</td>
+</tr>
+<tr>
+<td>0019</td>
 <td>Richer Merchants</td>
-<td>1143</td>
+<td>Ships</td>
 <td><a href="https://www.nexusmods.com/starfield/mods/1143">https://www.nexusmods.com/starfield/mods/1143</a></td>
 <td>1.2.0.0</td>
 </tr>
+<tr>
+<td>0020</td>
+<td>Stellar Glass</td>
+<td></td>
+<td><a href="https://www.nexusmods.com/starfield/mods/2894">https://www.nexusmods.com/starfield/mods/2894</a></td>
+<td>1.0.0.0</td>
+</tr>
+<tr>
+<td>0021</td>
+<td>Stellar Water</td>
+<td></td>
+<td><a href="https://www.nexusmods.com/starfield/mods/1615">https://www.nexusmods.com/starfield/mods/1615</a></td>
+<td>1.0.0.0</td>
+</tr>
+<tr>
+<td>0022</td>
+<td>Skurkbro’s Retexture Project - Landscape</td>
+<td>Visuals</td>
+<td><a href="https://www.nexusmods.com/starfield/mods/2362">https://www.nexusmods.com/starfield/mods/2362</a></td>
+<td>1.4.0.0</td>
+</tr>
+<tr>
+<td>0023</td>
+<td>Skurkbro’s Retexture Project - Architecture</td>
+<td>Visuals</td>
+<td><a href="https://www.nexusmods.com/starfield/mods/2362">https://www.nexusmods.com/starfield/mods/2362</a></td>
+<td>1.3.0.0</td>
+</tr>
 </tbody>
-</table><h1 id="replace-fsr2-with-either-dlss-or-xess-because-fsr-2-sucks-">Replace FSR2 with either DLSS or XeSS because FSR 2 SUCKS !</h1>
-<p>Even if your not rocking an nVidia RTX card you can still swap out FSR2 to Intel’s XeSS. FSR2 emits some pretty terrrible ghosting artifacts but starfield is kinda unplayable without an upscaler so I highly reccommend doing this !</p>
+</table><h2 id="replace-fsr2-with-either-dlss-or-xess-because-fsr-2-sucks-">Replace FSR2 with either DLSS or XeSS because FSR 2 SUCKS !</h2>
+<p>Even if your not rocking an nVidia RTX card you can still swap out FSR2 to Intel’s XeSS. FSR2 emits some pretty terrrible ghosting artifacts but starfield is kinda unplayable without an upscaler so this is a good option.</p>
 <p><a href="https://www.nexusmods.com/starfield/mods/111">https://www.nexusmods.com/starfield/mods/111</a></p>
-</div>
+
+    </div>
+  </div>
 </body>
 
 </html>
