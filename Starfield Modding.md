@@ -121,13 +121,6 @@ fTPWorldFOV=95
 <td>1.4.0.0</td>
 </tr>
 <tr>
-<td>0005</td>
-<td>BetterHUD</td>
-<td>Audio</td>
-<td><a href="https://www.nexusmods.com/starfield/mods/214">https://www.nexusmods.com/starfield/mods/214</a></td>
-<td>0.3.0.0</td>
-</tr>
-<tr>
 <td>0006</td>
 <td>Cleanfield - A No-Intro Videos And Clean Menu Fix</td>
 <td>User Interface</td>
@@ -172,7 +165,7 @@ fTPWorldFOV=95
 <tr>
 <td>0012</td>
 <td>EXE - Effect Textures Enhanced</td>
-<td></td>
+<td>Visuals</td>
 <td><a href="https://www.nexusmods.com/starfield/mods/340">https://www.nexusmods.com/starfield/mods/340</a></td>
 <td>0.6.0.0</td>
 </tr>
@@ -200,23 +193,16 @@ fTPWorldFOV=95
 <tr>
 <td>0016</td>
 <td>NaturaLUTs - Color Graded Filter Removal and Black Level Restoration LUTs</td>
-<td></td>
+<td>Visuals</td>
 <td><a href="https://www.nexusmods.com/starfield/mods/1119">https://www.nexusmods.com/starfield/mods/1119</a></td>
 <td>1.1.0.0</td>
 </tr>
 <tr>
 <td>0017</td>
 <td>The Eyes of Beauty - Starfield Edition</td>
-<td></td>
+<td>Visuals</td>
 <td><a href="https://www.nexusmods.com/starfield/mods/493">https://www.nexusmods.com/starfield/mods/493</a></td>
 <td>1.0.0.0</td>
-</tr>
-<tr>
-<td>0018</td>
-<td>Baka Achievement Enabler (SFSE)</td>
-<td></td>
-<td><a href="https://www.nexusmods.com/starfield/mods/658">https://www.nexusmods.com/starfield/mods/658</a></td>
-<td>1.5.0.0</td>
 </tr>
 <tr>
 <td>0019</td>
@@ -228,14 +214,14 @@ fTPWorldFOV=95
 <tr>
 <td>0020</td>
 <td>Stellar Glass</td>
-<td></td>
+<td>Visuals</td>
 <td><a href="https://www.nexusmods.com/starfield/mods/2894">https://www.nexusmods.com/starfield/mods/2894</a></td>
 <td>1.0.0.0</td>
 </tr>
 <tr>
 <td>0021</td>
 <td>Stellar Water</td>
-<td></td>
+<td>Visuals</td>
 <td><a href="https://www.nexusmods.com/starfield/mods/1615">https://www.nexusmods.com/starfield/mods/1615</a></td>
 <td>1.0.0.0</td>
 </tr>
@@ -252,6 +238,34 @@ fTPWorldFOV=95
 <td>Visuals</td>
 <td><a href="https://www.nexusmods.com/starfield/mods/2362">https://www.nexusmods.com/starfield/mods/2362</a></td>
 <td>1.3.0.0</td>
+</tr>
+<tr>
+<td>0024</td>
+<td>Address Library for SFSE Plugins</td>
+<td>Modders Resources</td>
+<td><a href="https://www.nexusmods.com/starfield/mods/3256">https://www.nexusmods.com/starfield/mods/3256</a></td>
+<td>2.0.0.0</td>
+</tr>
+<tr>
+<td>0025</td>
+<td>Console Command Runner</td>
+<td>Miscellaneous</td>
+<td><a href="https://www.nexusmods.com/starfield/mods/2740">https://www.nexusmods.com/starfield/mods/2740</a></td>
+<td>1.2.0.0</td>
+</tr>
+<tr>
+<td>0026</td>
+<td>CCR - Actually Functional Food and Chems (AFFC)</td>
+<td>Miscellaneous</td>
+<td><a href="https://www.nexusmods.com/starfield/mods/3312">https://www.nexusmods.com/starfield/mods/3312</a></td>
+<td>1.0.0.0</td>
+</tr>
+<tr>
+<td>0027</td>
+<td>Simple Faster Walk</td>
+<td>Gameplay</td>
+<td><a href="https://www.nexusmods.com/starfield/mods/1411">https://www.nexusmods.com/starfield/mods/1411</a></td>
+<td>1.1.0.0b</td>
 </tr>
 </tbody>
 </table><h2 id="replace-fsr2-with-either-dlss-or-xess-because-fsr-2-sucks-">Replace FSR2 with either DLSS or XeSS because FSR 2 SUCKS !</h2>
