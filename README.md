@@ -74,6 +74,6 @@ Starfield INI's ca be edited directly in MO2, **Tools->Tool Plugins -> INI Edito
 
 # Replace FSR2 with either DLSS or XeSS because FSR 2 SUCKS !
 
-Even if your not rocking an nVidia RTX card you can still swap out FSR2 to Intel's XeSS. FSR2 emits some pretty terrrible ghosting artifacts but starfield is kinda unplayable without an upscaler so I highly reccommend doing this !
+Even if your not rocking an nVidia RTX card you can still swap out FSR2 to Intel's XeSS. FSR2 emits some pretty terrrible ghosting artifacts but starfield is kinda unplayable without an upscaler so this is a good option.
 
 https://www.nexusmods.com/starfield/mods/111
