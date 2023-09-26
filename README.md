@@ -1,4 +1,4 @@
-# Starfield Modding
+# Starfield Modding Guide
 
 This is a guide with links to the latest available MOD tools for Starfield, including MO2's latest beta.
 
