@@ -33,7 +33,6 @@
 <ul>
 <li><a href="#starfield-modding-tools">Starfield Modding Tools</a>
 <ul>
-<li><a href="#latest-torrent-and-updaters">Latest torrent and Updaters</a></li>
 <li><a href="#mod-organiser-2---starfield-compatible-beta">Mod Organiser 2 - Starfield compatible beta</a></li>
 <li><a href="#starfield-ini-tweaks">Starfield INI Tweaks</a></li>
 <li><a href="#my-personal-mod-list">My Personal mod list</a></li>
@@ -48,12 +47,6 @@
     <div class="stackedit__html">
       <h1 id="starfield-modding-tools">Starfield Modding Tools</h1>
 <p>This is a guide with links to the latest available MOD tools for Starfield, including MO2’s latest beta.</p>
-<h2 id="latest-torrent-and-updaters">Latest torrent and Updaters</h2>
-<p><a href="https://drive.google.com/file/d/1m7FfkLei1J-UduiwPW1uypvuyuDBEXWj/view?usp=drive_link">Download starfield</a></p>
-<p>Ensure to update in the correct order and to point the installer at your <strong>current</strong> starfield directory, I will try to keep this up to date with the latest patches.</p>
-<p>This is the <strong>elamigos</strong> update same guy as BG3 update patcher.</p>
-<p><a href="https://drive.google.com/file/d/1ykF4QDGyyyhetvyCenv4D1eKKOw5sDRD/view?usp=drive_link">Starfield Update 1.7.29</a><br>
-<a href="https://drive.google.com/file/d/1ZibUCJ-Mv7crVOnerIMefMoKdQLPPZGJ/view?usp=drive_link">Starfield update 1.7.29 - 1.7.33.exe</a></p>
 <h2 id="mod-organiser-2---starfield-compatible-beta">Mod Organiser 2 - Starfield compatible beta</h2>
 <p><a href="https://drive.google.com/file/d/1xCrKXWZ7j1B5wayfwjAAGmi1G9SKPCUS/view?usp=drive_link">https://drive.google.com/file/d/1xCrKXWZ7j1B5wayfwjAAGmi1G9SKPCUS/view?usp=drive_link</a> &lt;- MO2 Beta 10</p>
 <p><strong>Beta 10 patch:</strong><br>
